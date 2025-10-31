@@ -93,24 +93,13 @@ const nithushi = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nithushi\&repo=project1\&theme=tokyonight\&hide_border=true)](https://github.com/nithushi/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nithushi\&repo=project2\&theme=tokyonight\&hide_border=true)](https://github.com/nithushi/project2)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 ### 🌐 My Portfolio
 
-👉 **[https://nithushi-portfolio.vercel.app](https://nithushi-portfolio.vercel.app)**
+👉 **[[https://nithushi-portfolio.vercel.app](https://nithushi-portfolio.vercel.app)](https://69046ae70f01fe4cebd04a4f--nithushishavindi.netlify.app/)**
 
 <br/>
 
