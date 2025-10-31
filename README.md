@@ -99,7 +99,7 @@ const nithushi = {
 
 ### 🌐 My Portfolio
 
-👉 **[[https://nithushi-portfolio.vercel.app](https://nithushi-portfolio.vercel.app)](https://69046ae70f01fe4cebd04a4f--nithushishavindi.netlify.app/)**
+👉 **(https://69046ae70f01fe4cebd04a4f--nithushishavindi.netlify.app/)**
 
 <br/>
 
