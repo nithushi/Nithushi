@@ -1,4 +1,4 @@
-# 🌟 Hi there, I'm Nithushi Shjavindi ! 👋
+# 🌟 Hi there, I'm Nithushi Shavindi ! 👋
 
 <div align="center">
 
