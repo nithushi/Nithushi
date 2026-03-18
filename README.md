@@ -72,8 +72,8 @@ I'm always open to discussing open-source collaborations, teaching opportunities
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithushi-shavindi-aa5729281/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://69046ae70f01fe4cebd04a4f--nithushishavindi.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithushi.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nithushishavindi.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithushishavindi0@gmail.com)
 
 </div>
 
